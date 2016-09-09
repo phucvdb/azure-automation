@@ -1,1 +1,1 @@
-# azurre-automation
+# azure-automation
