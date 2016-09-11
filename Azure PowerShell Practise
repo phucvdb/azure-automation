@@ -1,0 +1,2 @@
+Azure PowerShell has two methods to get you authenticated. The first option uses a management 
+certificate and the second option uses an Azure Active Directory account.
