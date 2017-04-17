@@ -1,3 +1,5 @@
+[![Deploy to Azure](https://azuredeploy.net/deploybutton.svg)](https://azuredeploy.net/)
+
 ## Run the below cmdlets to install the vsts agent on your vm
 
 ```bashshell
