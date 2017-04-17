@@ -3,5 +3,5 @@
 ```bashshell
 export tokenvsts=<insert your Personal access tokens here>
 export agentname=<typing your agentname here>
-wget -qO- https://raw.githubusercontent.com/phucvdb/azure-automation/master/vsts/agentinstall.sh | sh
+wget -qO- https://raw.githubusercontent.com/phucvdb/azure-automation/master/vsts/rhel73/agentinstall.sh | sh
 ```
